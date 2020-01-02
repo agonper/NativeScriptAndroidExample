@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="_main_currentLocation_1HmkPE">"Latitude: %1$s, Longitude: %2$s, Accuracy: %3$sm"</string>
+  <string name="_main_reset_ZH5g3b">"Reset"</string>
+  <string name="_main_bootCount_uaLpY">"Boot count: %1$s"</string>
+  <string name="_title_activity_kimera_PKGla">"Dafuq"</string>
+  <string name="_app_name_1k3Sbz">"My App"</string>
+  <string name="app_name">"My App"</string>
+  <string name="title_activity_kimera">"My App"</string>
+</resources>

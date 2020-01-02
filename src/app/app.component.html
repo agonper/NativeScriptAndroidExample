@@ -1,0 +1,18 @@
+<!-- https://docs.nativescript.org/angular/core-concepts/angular-navigation.html#page-router-outlet -->
+<!-- <page-router-outlet></page-router-outlet> -->
+<ActionBar title="{{ 'app.name' | L }}"> </ActionBar>
+
+<StackLayout>
+  <Label [text]="'main.bootCount' | L: bootCount" textWrap="true"></Label>
+  <Button [text]="'main.reset' | L" (tap)="reset()"></Button>
+  <Label
+    *ngIf="currentLocation"
+    [text]="
+      'main.currentLocation'
+        | L
+          : currentLocation.latitude
+          : currentLocation.longitude
+          : currentLocation.accuracy
+    "
+  ></Label>
+</StackLayout>

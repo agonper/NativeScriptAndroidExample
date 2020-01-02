@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="_main_currentLocation_1HmkPE">"Latitud: %1$s, Longitud: %2$s, Precisión: %3$sm"</string>
+  <string name="_main_reset_ZH5g3b">"Reiniciar"</string>
+  <string name="_main_bootCount_uaLpY">"Nº de arranques: %1$s"</string>
+  <string name="_title_activity_kimera_PKGla">"Pero que?"</string>
+  <string name="_app_name_1k3Sbz">"Mi App"</string>
+  <string name="app_name">"Mi App"</string>
+  <string name="title_activity_kimera">"Mi App"</string>
+</resources>
